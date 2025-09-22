@@ -1,5 +1,4 @@
-# Java-Card-Game
-A Card Game 
+# Java-Card-Game 
 A simple GUI-based card game built with Java Swing where you play against the computer. The goal is to get as close to 33 points as possible without going over.
 
 **How to Play**
